@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270">
+  <g font-family="'Bebas Neue', Impact, 'Arial Black', sans-serif" text-anchor="middle">
+    <!-- faixa presidencial: vermelho, amarelo e azul, como as três Facções -->
+    <g transform="skewX(-12)">
+      <rect x="120" y="178" width="240" height="26" fill="#d8342c" stroke="#111" stroke-width="5"/>
+      <rect x="360" y="178" width="240" height="26" fill="#f2c230" stroke="#111" stroke-width="5"/>
+      <rect x="600" y="178" width="240" height="26" fill="#3f86c4" stroke="#111" stroke-width="5"/>
+    </g>
+    <text x="458" y="170" font-size="176" fill="#111" letter-spacing="4">HIPOTÉTICOS</text>
+    <text x="450" y="162" font-size="176" fill="#f6efdc" stroke="#111" stroke-width="6" paint-order="stroke" letter-spacing="4">HIPOTÉTICOS</text>
+    <text x="450" y="252" font-size="40" fill="#f6efdc" stroke="#111" stroke-width="5" paint-order="stroke" letter-spacing="10">ELEIÇÕES NO BOSTIL</text>
+  </g>
+</svg>
